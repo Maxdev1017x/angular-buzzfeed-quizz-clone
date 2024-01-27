@@ -1,3 +1,5 @@
+![image](https://github.com/Maxdev1017x/angular-buzzfeed-quizz-clone/assets/117764643/5a57f2e4-02bc-48e8-9fd4-6019a18a3933)
+
 
 # Similar Buzzfeed
 
